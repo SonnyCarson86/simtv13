@@ -1,0 +1,21 @@
+
+        .nav-tabs .nav-link {
+            color: grey;
+        }
+        .nav-tabs .nav-link.active {
+            color: black;
+            font-weight: bold;
+        }
+        .nav-tabs .nav-link:hover {
+            color: black;
+        }
+p {
+    font-family: 'Libre Caslon Display', sans-serif !important;
+}
+
+.libre-caslon-display-regular {
+  font-family: "Libre Caslon Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
